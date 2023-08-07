@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/bacjground_home.xml" value="0.121" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/background.xml" value="0.16" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/borde_caja_text__item.xml" value="0.1" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/borders_card_store.xml" value="0.1075" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/btn_google.xml" value="0.121" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/container_buy.xml" value="0.125" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/container_buy_add.xml" value="0.1" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/ic_additems.xml" value="0.125" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/ic_buttoncart.xml" value="0.1075" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/ic_iconremoveitem.xml" value="0.125" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/rectangle.xml" value="0.121" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/splash_screen.xml" value="0.121" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/drawable/style.xml" value="0.125" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/font/roboto_bold.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/activity_acceso.xml" value="0.18" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/activity_detail.xml" value="0.25" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/activity_splash.xml" value="0.203125" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/dialogo_detail.xml" value="0.22" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/item_products.xml" value="0.22" />
+        <entry key="..\:/Users/cristian.leon/PruebaTecnicaAlternova/app/src/main/res/layout/loading_data.xml" value="0.203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

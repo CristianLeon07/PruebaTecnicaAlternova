@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159840700364",
+    "project_id": "pruebaalternova",
+    "storage_bucket": "pruebaalternova.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159840700364:android:ef3ec89dfa87ce373cbf69",
+        "android_client_info": {
+          "package_name": "com.example.pruebatecnicaalternova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159840700364-i0bl7h6eu0efknr7gc3msmbk50r1r0ka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pruebatecnicaalternova",
+            "certificate_hash": "b3e2a076d6c371fd6564058a9dc695a6fcee13be"
+          }
+        },
+        {
+          "client_id": "159840700364-5atg3hdqe6vgtclgupe97gpr85pne8ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-54I2EohTTR9BZjsBZeMP8RbTC55BVFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159840700364-5atg3hdqe6vgtclgupe97gpr85pne8ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

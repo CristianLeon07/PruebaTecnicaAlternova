@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PruebaTecnicaAlternova</string>
+    <string name="btnLogIn">Iniciar con Gmail</string>
+    <string name="tvSignOff">Cerrar Sesion</string>
+    <string name="tvWelcome">Bienvendios Alternova</string>
+    <string name="tvAdd">Comprar</string>
+    <string name="tvDetailProduct">Detalles del producto</string>
+    <string name="tvName">Nombre:</string>
+    <string name="tvDescription">Descripcion:</string>
+    <string name="tvPrice">Precio:</string>
+    <string name="tvId">Id:</string>
+    <string name="tvStock">Stock:</string>
+    <string name="btnBuy">Comprar</string>
+    <string name="btnDeleteBuy">Eliminar compra</string>
+    <string name="btnCancel">Cancelar</string>
+    <string name="tvDelete">Deseas eliminar el carrito ?</string>
+</resources>
